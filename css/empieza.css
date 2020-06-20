@@ -1,0 +1,218 @@
+body {
+    font: 400 14px/1.6 'Lato', Verdana, sans-serif;
+}
+
+div.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+    height: 450px;
+}
+
+@media(min-width: 320px) {
+    .background_image_body {
+        background-image: url('images/homesliders/index6/2.png');
+        width: 100%;
+    }
+    .fieldset_caracteristicas {
+        padding: 30px;
+        width: 50%;
+        margin-top: 153px;
+        margin-left: 43px;
+        text-align: center;
+        color: #fff;
+        font-size: 13px;
+        border: none;
+    }
+    .styles_title {
+        font-weight: 700;
+        font-size: 12px;
+        border-bottom: solid 1px #999999;
+        border-right: solid 1px #999999;
+        background-color: #999999;
+        padding-top: 10px;
+    }
+    .tamaño_texto {
+        font-size: 12px;
+        padding: 10px;
+        border-bottom: solid 1px #999999;
+    }
+    .fs-text {
+        font-size: 16px;
+        font-weight: 300;
+    }
+}
+
+@media(min-width: 576px) {
+    .background_image_body {
+        background-image: url('../images/homesliders/index6/2.png');
+        width: 100%;
+    }
+    .fieldset_caracteristicas {
+        padding: 30px;
+        width: 50%;
+        margin-top: 124px;
+        margin-left: 116px;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        border: none;
+    }
+}
+
+@media(min-width: 768px) {
+    .background_image_body {
+        background-image: url('../images/homesliders/index6/2.png');
+        width: 100%;
+    }
+    .fieldset_caracteristicas {
+        padding: 30px;
+        width: 50%;
+        margin-top: 124px;
+        margin-left: 162px;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        border: none;
+    }
+}
+
+@media(min-width: 992px) {
+    .background_image_body {
+        background-image: url('../images/homesliders/index6/2.png');
+        width: 100%;
+    }
+    .fieldset_caracteristicas {
+        padding: 30px;
+        width: 50%;
+        margin-top: 124px;
+        margin-left: 207px;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        border: none;
+    }
+}
+
+@media(min-width: 1200px) {
+    .background_image_body {
+        background-image: url('../images/homesliders/index6/2.png');
+        width: 100%;
+    }
+    .fieldset_caracteristicas {
+        padding: 30px;
+        width: 50%;
+        margin-top: 124px;
+        margin-left: 287px;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        border: none
+    }
+}
+
+@media(min-width: 1280px) {
+    .background_image_body {
+        background-image: url('../images/homesliders/index6/2.png');
+        width: 100%;
+    }
+    .fieldset_caracteristicas {
+        padding: 30px;
+        width: 50%;
+        margin-top: 124px;
+        margin-left: 287px;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        border: none
+    }
+}
+
+@media(min-width: 1366px) {
+    .background_image_body {
+        background-image: url('../images/homesliders/index6/2.png');
+        width: 100%;
+    }
+    .fieldset_caracteristicas {
+        padding: 30px;
+        width: 50%;
+        margin-top: 124px;
+        margin-left: 321px;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        border: none
+    }
+}
+
+@media(min-width: 1450px) {
+    .background_image_body {
+        background-image: url('../images/homesliders/index6/2.png');
+        width: 100%;
+    }
+    .fieldset_caracteristicas {
+        padding: 30px;
+        width: 50%;
+        margin-top: 124px;
+        margin-left: 341px;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        border: none;
+    }
+}
+
+@media(min-width: 1600px) {
+    .background_image_body {
+        background-image: url('../images/homesliders/index6/2.png');
+        width: 100%;
+    }
+    .fieldset_caracteristicas {
+        padding: 30px;
+        width: 50%;
+        margin-top: 145px;
+        margin-left: 386px;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        border: none
+    }
+}
+
+@media(min-width: 1770px) {
+    .background_image_body {
+        background-image: url('../images/homesliders/index6/2.png');
+        width: 100%;
+    }
+    .fieldset_caracteristicas {
+        padding: 30px;
+        width: 50%;
+        margin-top: 124px;
+        margin-left: 426px;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        border: none
+    }
+}
+
+@media(min-width: 1920px) {
+    .background_image_body {
+        background-image: url('../images/homesliders/index6/2.png');
+        width: 100%;
+    }
+    .fieldset_caracteristicas {
+        padding: 30px;
+        width: 50%;
+        margin-top: 181px;
+        margin-left: 439px;
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        border: none
+    }
+    .tamaño_texto {
+        font-size: 15px;
+        padding: 10px;
+        border-bottom: solid 1px #999999;
+    }
+}
